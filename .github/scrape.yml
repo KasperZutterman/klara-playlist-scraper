@@ -1,0 +1,19 @@
+on:
+  schedule:
+    - cron:  '0 2 * * *' # Every day at 2am. Ref https://crontab.guru/every-day-at-2am
+name: Scrape Data
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Build
+      run: npm install
+    - name: Scrape
+      run: npm run action 
+      # env:
+      #   WHATEVER_TOKEN: ${{ secrets.YOU_WANT }}
+    - uses: mikeal/publish-to-github-action@master # https://github.com/mikeal/publish-to-github-action
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
