@@ -1,6 +1,17 @@
+#!/usr/bin/env node
+
+const fs = require('fs');
+const path = require('path');
 const puppeteer = require('puppeteer');
+
+const dataFolder = '/data';
+const yestartday = ( d => new Date(d.setDate(d.getDate()-1)) )(new Date);
+const pathToData = path.join(__dirname, dataFolder, fileString(yestartday)) + '.json';
 const KLARA_PLAYLIST_URL = (DAY) => `https://klara.be/playlists/dagoverzicht/${DAY}/`;
-const DAY = `2020-01-01`;
+const DAY = fileString(yestartday);
+
+
+let scraped_data;
 
 /**
    * @method main
@@ -37,10 +48,13 @@ async function main() {
     //console.log(res);
 
     await browser.close();
-    return res;
+    scraped_data = res;
 };
 
-main();
+main().then(() => {
+    // persist data
+    fs.writeFileSync(path.resolve(pathToData), JSON.stringify(scraped_data, null, 2));
+});
 
 /**
  *
