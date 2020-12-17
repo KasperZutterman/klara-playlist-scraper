@@ -43,7 +43,10 @@ async function main() {
         try {obj.time = data[i].match('<span class="time">(.*?)<\/span>')[1];} catch {obj.time = ""}
         try {obj.composer = data[i].match('<span class="composer">(.*?)<\/span>')[1];} catch {obj.composer = ""}
         try {obj.label = data[i].match('<span class="label">(.*?)<\/span>')[1];} catch {obj.label = ""}
-        res.push(obj);
+        
+        if (obj.starttime != "" || obj.artist != "" || obj.title != "" || obj.time != "" || obj.composer != "" || obj.label) {
+            res.push(obj);
+        }
     }
     //console.log(res);
 
