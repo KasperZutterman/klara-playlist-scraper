@@ -44,7 +44,7 @@ async function main() {
         try {obj.composer = data[i].match('<span class="composer">(.*?)<\/span>')[1];} catch {obj.composer = ""}
         try {obj.label = data[i].match('<span class="label">(.*?)<\/span>')[1];} catch {obj.label = ""}
         
-        if (obj.starttime != "" || obj.artist != "" || obj.title != "" || obj.time != "" || obj.composer != "" || obj.label) {
+        if (obj.starttime != "" || obj.artist != "" || obj.title != "" || obj.time != "" || obj.composer != "" || obj.label != "") {
             res.push(obj);
         }
     }
