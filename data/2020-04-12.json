@@ -1,0 +1,962 @@
+[
+  {
+    "starttime": "00:06",
+    "artist": "Johannes Brahms",
+    "title": "Hongaarse dansen: nrs.13 tot 17",
+    "time": "0:12:08",
+    "composer": "London Symphony Orchestra o.l.v. Neeme Järvi",
+    "label": "Chandos 20088"
+  },
+  {
+    "starttime": "00:18",
+    "artist": "Claude Debussy",
+    "title": "Rêverie",
+    "time": "0:04:10",
+    "composer": "Anne Queffélec (piano)",
+    "label": "Mirare 189"
+  },
+  {
+    "starttime": "00:22",
+    "artist": "Dmitri Kabalevsky",
+    "title": "Concerto nr.1 in g voor cello en orkest op.49: 1.Allegro",
+    "time": "0:06:53",
+    "composer": "Alexander Rudin (cello) Moscow Symphony Orchestra o.l.v. Igor Golovschin",
+    "label": "Naxos 8.553788"
+  },
+  {
+    "starttime": "00:29",
+    "artist": "Wolfgang Amadeus Mozart",
+    "title": "Sonate nr.1 in C voor piano KV279",
+    "time": "0:13:49",
+    "composer": "Mitsuko Uchida (piano)",
+    "label": "Philips 412617-2"
+  },
+  {
+    "starttime": "00:43",
+    "artist": "Antonin Dvorak",
+    "title": "Uit het Boheemse Woud op.68: 1.In de spinkamer",
+    "time": "0:04:09",
+    "composer": "Pianoduo Kolacny",
+    "label": "Eufoda 1265"
+  },
+  {
+    "starttime": "00:47",
+    "artist": "Maurice Ravel",
+    "title": "Sonate voor viool en piano op. posth.",
+    "time": "0:14:34",
+    "composer": "Tobias Feldmann (viool) Boris Kusnezow (piano)",
+    "label": "Alpha 253"
+  },
+  {
+    "starttime": "01:01",
+    "artist": "Alma Mahler-Werfel/arr.Julian Reynolds",
+    "title": "Der Erkennende",
+    "time": "0:03:11",
+    "composer": "Charlotte Margiono (sopraan) Brabants Orkest o.l.v. Julian Reynolds",
+    "label": "Globe 5199"
+  },
+  {
+    "starttime": "01:05",
+    "artist": "Johann Sebastian Bach",
+    "title": "Das Wohltemperierte Klavier boek 2: Prelude en fuga nr.9 in E BWV878",
+    "time": "0:06:07",
+    "composer": "Julien Libeer (piano)",
+    "label": "Eigen beheer "
+  },
+  {
+    "starttime": "01:11",
+    "artist": "César Franck",
+    "title": "Panis angelicus (arr.)",
+    "time": "0:02:56",
+    "composer": "Bart Rodyns (harmonium) Nicolas Callot (piano)",
+    "label": "Enigma Records ER1801"
+  },
+  {
+    "starttime": "01:14",
+    "artist": "Ludwig van Beethoven",
+    "title": "Pianotrio nr.7 in Bes op.97 Aartshertog: 1.Allegro moderato",
+    "time": "0:12:54",
+    "composer": "Alexander Melnikov (piano) Isabelle Faust (viool) Jean-Guihen Queyras (cello)",
+    "label": "Harmonia Mundi 902125"
+  },
+  {
+    "starttime": "01:27",
+    "artist": "Charles Gounod",
+    "title": "Symfonie nr.1 in D",
+    "time": "0:25:30",
+    "composer": "Iceland Symphony Orchestra o.l.v. Yan Pascal Tortelier",
+    "label": "Chandos CHSA-5231"
+  },
+  {
+    "starttime": "01:52",
+    "artist": "Anton Bruckner",
+    "title": "Symfonie nr.3 in d: 2.Andante",
+    "time": "0:16:36",
+    "composer": "Gewandhausorchester Leipzig o.l.v. Andris Nelsons",
+    "label": "Deutsche Grammophon 00289 479 7208"
+  },
+  {
+    "starttime": "02:09",
+    "artist": "Franz Krommer",
+    "title": "Variaties op een thema van Ignaz Pleyel",
+    "time": "0:03:45",
+    "composer": "Astria Hobo Trio",
+    "label": "KLIK 1401"
+  },
+  {
+    "starttime": "02:13",
+    "artist": "Robert Schumann",
+    "title": "Fantasie in C voor viool en orkest op.131",
+    "time": "0:14:48",
+    "composer": "Baiba Skride (viool) Symfonieorkest van de Deense Radio o.l.v. John Storgards",
+    "label": "Orfeo C 854 131 A"
+  },
+  {
+    "starttime": "02:28",
+    "artist": "Johannes Brahms",
+    "title": "Variaties op een thema van Haydn in Bes op.56a",
+    "time": "0:17:27",
+    "composer": "Deutsche Kammerphilharmonie Bremen o.l.v. Paavo Järvi",
+    "label": "RCA Red Seal 19075869552"
+  },
+  {
+    "starttime": "02:45",
+    "artist": "Wolfgang Amadeus Mozart",
+    "title": "Le Nozze di Figaro: Sinfonia-Cinque...Dieci-Se vuol ballare",
+    "time": "0:08:22",
+    "composer": "Zefiro",
+    "label": "Ambroisie 9962"
+  },
+  {
+    "starttime": "02:53",
+    "artist": "Joseph Haydn",
+    "title": "Concerto nr.2 in D voor cello en orkest",
+    "time": "0:25:12",
+    "composer": "Truls Mork (cello) Norwegian Chamber Orchestra o.l.v. Iona Brown",
+    "label": "Virgin 545014-2"
+  },
+  {
+    "starttime": "03:19",
+    "artist": "Ludwig van Beethoven",
+    "title": "Concerto nr.1 in C voor piano en orkest op.15: 2.Largo",
+    "time": "0:10:57",
+    "composer": "Mari Kodama (piano) Deutsches Symphonie-Orchester Berlin o.l.v. Kent Nagano",
+    "label": "Analekta 2-9955"
+  },
+  {
+    "starttime": "03:30",
+    "artist": "Felix Mendelssohn",
+    "title": "Concerto in e voor viool en orkest op.64",
+    "time": "0:28:14",
+    "composer": "Sebastian Bohren (viool) Royal Liverpool Philharmonic Orchestra o.l.v. Andrew Litton",
+    "label": "RCA Red Seal 19075871142"
+  },
+  {
+    "starttime": "03:58",
+    "artist": "Robert Schumann",
+    "title": "Symfonie nr.4 in d op.120",
+    "time": "0:27:33",
+    "composer": "Staatskapelle Dresden o.l.v. Wolfgang Sawallisch",
+    "label": "EMI 764815-2"
+  },
+  {
+    "starttime": "04:26",
+    "artist": "Johann Adolf Hasse",
+    "title": "Artaserse: Pallido il sole",
+    "time": "0:03:58",
+    "composer": "Andreas Scholl (contratenor) Orchestra of the Age of Enlightenment o.l.v. Sir Roger Norrington",
+    "label": "Decca 466 196-2"
+  },
+  {
+    "starttime": "04:30",
+    "artist": "Ferdinand Hiller",
+    "title": "Konzertstück voor piano en orkest op.113",
+    "time": "0:20:40",
+    "composer": "Howard Shelley (piano) Tasmanian Symphony Orchestra",
+    "label": "Hyperion CDA68240"
+  },
+  {
+    "starttime": "04:50",
+    "artist": "Franz Schubert",
+    "title": "Divertissement à la hongroise in g D818: 1.Andante",
+    "time": "0:12:59",
+    "composer": "Jan Vermeulen (piano) Veerle Peeters (piano)",
+    "label": "Etcetera 1501"
+  },
+  {
+    "starttime": "05:03",
+    "artist": "Wolfgang Amadeus Mozart",
+    "title": "Concerto in A voor klarinet en orkest KV622",
+    "time": "0:27:10",
+    "composer": "Vlad Weverbergh (bassetklarinet) Terra Nova Collective",
+    "label": "Etcetera KTC 1627"
+  },
+  {
+    "starttime": "05:31",
+    "artist": "Georges Lonque",
+    "title": "Au gré des vents op.16",
+    "time": "0:02:23",
+    "composer": "Werner van Mechelen (bariton) Peter Vanhove (piano)",
+    "label": "Phaedra 92084"
+  },
+  {
+    "starttime": "05:33",
+    "artist": "Joseph-Hector Fiocco/transcr.Emmanuel Durlet",
+    "title": "Adagio in G - Allegro moderato in G - Andante in e",
+    "time": "0:08:52",
+    "composer": "Edoardo Torbianelli (piano)",
+    "label": "Phaedra 92056"
+  },
+  {
+    "starttime": "05:42",
+    "artist": "Sergej Prokofjev",
+    "title": "Symfonie nr.1 in D op.25 Klassieke",
+    "time": "0:13:46",
+    "composer": "London Symphony Orchestra o.l.v. Michael Tilson Thomas",
+    "label": "Sony classical 48239"
+  },
+  {
+    "starttime": "05:56",
+    "artist": "Carl Philipp Emanuel Bach",
+    "title": "Concerto in Bes voor hobo, strijkers en b.c. Wq164: 1.Allegretto",
+    "time": "0:07:56",
+    "composer": "Paul Dombrecht (hobo) Il Fondamento o.l.v. Paul Dombrecht hobo",
+    "label": "Vanguard 99718"
+  },
+  {
+    "starttime": "07:03",
+    "artist": "Johann Pachelbel",
+    "title": "Canon",
+    "time": "0:04:00",
+    "composer": "Philippe Pierlot (gamba) Guy Penson (orgel) Frédéric de Roos (blokfluit) Patrick Denecker (blokfluit) Mieke Van Weddingen (blokfluit)",
+    "label": "Ricercar 93001"
+  },
+  {
+    "starttime": "07:07",
+    "artist": "Felix Mendelssohn Bartholdy",
+    "title": "Ein Sommernachtstraum, op. 61 (Toneelmuziek) /Een midzomernachtsdroom/A Midsummernight's Dream: XI Finale",
+    "time": "0:04:56",
+    "composer": "Sandrine Piau (sopraan) Delphine Collot (sopraan) Choeur De La Chapelle Royale Collegium Vocale Gent Orchestre Des Champs Elysees o.l.v. Philippe Herreweghe",
+    "label": "Harmonia Mundi HMC-901502"
+  },
+  {
+    "starttime": "07:12",
+    "artist": "Felix Mendelssohn Bartholdy",
+    "title": "Ein Sommernachtstraum, op. 61 (Toneelmuziek) /Een midzomernachtsdroom/A Midsummernight's Dream: IV Lied mit Chor: \"Bunte Schlangen, zweigezüngt!\"",
+    "time": "0:04:09",
+    "composer": "Sandrine Piau (sopraan) Delphine Collot (sopraan) Choeur De La Chapelle Royale Collegium Vocale Gent Orchestre Des Champs Elysees o.l.v. Philippe Herreweghe",
+    "label": "Harmonia Mundi HMC-901502"
+  },
+  {
+    "starttime": "07:17",
+    "artist": "Marco Uccellini",
+    "title": "Aria quinta sopra La Bergamasca",
+    "time": "0:03:26",
+    "composer": "Maurice Steger (blokfluit) Ensemble",
+    "label": "Harmonia mundi 902024"
+  },
+  {
+    "starttime": "07:21",
+    "artist": "Marin Marais",
+    "title": "Prelude in e - Allemande La Magnifique in G",
+    "time": "0:05:46",
+    "composer": "Romina Lischka (gamba) Sofie Vanden Eynde (theorbe)",
+    "label": "Paraty 814129"
+  },
+  {
+    "starttime": "07:27",
+    "artist": "Wolfgang Amadeus Mozart",
+    "title": "Mars nr.2 in D KV335",
+    "time": "0:04:14",
+    "composer": "Kölner Akademie o.l.v. Michael Alexander Willens",
+    "label": "BIS 2244"
+  },
+  {
+    "starttime": "07:33",
+    "artist": "Jean-Philippe Rameau/arr.Korneel Bernolet",
+    "title": "Les Indes Galantes: Chaconne",
+    "time": "0:05:40",
+    "composer": "Korneel Bernolet (klavecimbel) Apotheosis",
+    "label": "Etcétera 1523"
+  },
+  {
+    "starttime": "07:43",
+    "artist": "Johann Sebastian Bach",
+    "title": "Cantate BWV61 Nun komm, der Heiden Heiland",
+    "time": "0:14:17",
+    "composer": "Sibylla Rubens (sopraan) Christoph Prégardien (tenor) Peter Kooy (bas) Collegium Vocale o.l.v. Philippe Herreweghe",
+    "label": "Harmonia mundi 901605"
+  },
+  {
+    "starttime": "07:58",
+    "artist": "Joseph Haydn",
+    "title": "Symfonie nr.65 in A: 2.Andante",
+    "time": "0:05:21",
+    "composer": "Kammerorchester Basel o.l.v. Giovanni Antonini",
+    "label": "Alpha 680"
+  },
+  {
+    "starttime": "08:07",
+    "artist": "Charles Mouton",
+    "title": "Concerto nr.2 in F voor strijkers en b.c.",
+    "time": "0:06:08",
+    "composer": "Ars Antiqua Austria o.l.v. Gunar Letzbor",
+    "label": "Challenge 72336"
+  },
+  {
+    "starttime": "08:14",
+    "artist": "Wolfgang Amadeus Mozart",
+    "title": "Requiem in d klein KV 626: Lacrimosa en Domine Jesu Christe",
+    "time": "0:06:45",
+    "composer": "Sibylla Rubens (sopraan) Annette Markert (alt) Ian Bostridge (tenor) Hanno Müller-Brachmann (bas) Choeur De La Chapelle Royale Collegium Vocale Gent Orchestre Des Champs Elysees o.l.v. Philippe Herreweghe",
+    "label": "Harmonia Mundi HMC-901620"
+  },
+  {
+    "starttime": "08:21",
+    "artist": "Carl Nielsen",
+    "title": "Blaaskwintet op.43: 1.Allegro ben moderato",
+    "time": "0:08:02",
+    "composer": "Les Vents Français",
+    "label": "Warner Classics 0190295548704"
+  },
+  {
+    "starttime": "08:31",
+    "artist": "Peter Tsjaikovski",
+    "title": "Evgeny Onegin op.24: Wals",
+    "time": "0:06:39",
+    "composer": "Cincinnati Pops Orchestra o.l.v. Erich Kunzel",
+    "label": "Telarc 80541"
+  },
+  {
+    "starttime": "08:40",
+    "artist": "Johannes Brahms",
+    "title": "Gesang der Parzen op.89",
+    "time": "0:10:46",
+    "composer": "Collegium Vocale; Orchestre des Champs-Elysées o.l.v. Philippe Herreweghe",
+    "label": "PHI 003"
+  },
+  {
+    "starttime": "08:51",
+    "artist": "Edvard Grieg",
+    "title": "Sonate nr.2 in G voor viool en piano op.13: 2.Allegretto tranquillo",
+    "time": "0:06:24",
+    "composer": "Augustin Dumay (viool) Maria Joao Pires (piano)",
+    "label": "DG 437525-2"
+  },
+  {
+    "starttime": "08:58",
+    "artist": "Francis Poulenc",
+    "title": "Sinfonietta: 2.Molto vivace",
+    "time": "0:05:24",
+    "composer": "New London Orchestra o.l.v. Ronald Corp",
+    "label": "Helios 55167"
+  },
+  {
+    "starttime": "09:07",
+    "artist": "Anton Eberl",
+    "title": "Symfonie in C: 1.Allegro con brio",
+    "time": "0:07:45",
+    "composer": "Concerto Köln",
+    "label": "Teldec 3984-22167-2"
+  },
+  {
+    "starttime": "09:15",
+    "artist": "Felix Mendelssohn",
+    "title": "Strijkkwartet nr.6 in f op.80: 3.Adagio",
+    "time": "0:07:26",
+    "composer": "Quatuor Modigliani",
+    "label": "Mirare 120"
+  },
+  {
+    "starttime": "09:23",
+    "artist": "Ludwig van Beethoven",
+    "title": "Missa Solemnis in D op.123: 4.Sanctus-5.Benedictus",
+    "time": "0:14:33",
+    "composer": "Rosa Mannion (sopraan) Birgit Remmert (alt) James Taylor (tenor) Cornelius Hauptmann (bas) Koor van La Chapelle Royale; Koor van Collegium Vocale Gent; Orchestre des Champs-Elysées o.l.v. Philippe Herreweghe",
+    "label": "Harmonia mundi 2901557"
+  },
+  {
+    "starttime": "09:38",
+    "artist": "Antonio Vivaldi",
+    "title": "Concerto in e voor cello, fagot, strijkers en b.c. RV409",
+    "time": "0:06:12",
+    "composer": "Jean-Guihen Queyras (cello) Christian Beuse (fagot) Akademie für Alte Musik Berlin o.l.v. Georg Kallweit",
+    "label": "Harmonia mundi 902095"
+  },
+  {
+    "starttime": "09:47",
+    "artist": "Johann Sebastian Bach",
+    "title": "Komm, Jesu, komm, BWV 229 (voor dubbelkoor, strijkers, blazers en basso continuo)",
+    "time": "0:08:52",
+    "composer": "Collegium Vocale Gent Choeur De La Chapelle Royale Orchestre De La Chapelle Royale o.l.v. Philippe Herreweghe",
+    "label": "Harmonia Mundi HMX-2981231"
+  },
+  {
+    "starttime": "09:56",
+    "artist": "Louis Théodore Gouvy",
+    "title": "Sonate in c op.49 voor piano vierhandig: 1.Allegro moderato",
+    "time": "0:06:37",
+    "composer": "Pianoduo Tal en Groethuysen",
+    "label": "Sony 53110"
+  },
+  {
+    "starttime": "10:03",
+    "artist": "Johann Nepomuk Hummel",
+    "title": "Septet in d op.74: 4.Finale vivace",
+    "time": "0:08:54",
+    "composer": "Ensemble Solstice",
+    "label": "Pavane 7517"
+  },
+  {
+    "starttime": "10:14",
+    "artist": "Johann Sebastian Bach",
+    "title": "Mis in b klein, BWV 232 /Hohe Messe/H-Moll Messe: V Osanna, Benedictus, Agnus Dei &amp; Dona Nobis Pacem",
+    "time": "0:17:01",
+    "composer": "Dorothee Mields (sopraan) Hana Blazikova (sopraan) Damien Guillon (altus) Thomas Hobbs (tenor) Peter Kooij (bas) Collegium Vocale Gent o.l.v. Philippe Herreweghe",
+    "label": "PHI LPH-004"
+  },
+  {
+    "starttime": "10:32",
+    "artist": "Amilcare Ponchielli",
+    "title": "Kwintet voor fluit, hobo, Es klarinet, klarinet en piano",
+    "time": "0:13:46",
+    "composer": "Ensemble Villa Musica",
+    "label": "MDG 304 1618-2"
+  },
+  {
+    "starttime": "10:46",
+    "artist": "Samuel Barber",
+    "title": "Concerto voor viool en orkest op.14: 2.Andante",
+    "time": "0:09:03",
+    "composer": "Hilary Hahn (viool) Saint Paul Chamber Orchestra o.l.v. Hugh Wolff",
+    "label": "Sony 89029"
+  },
+  {
+    "starttime": "10:56",
+    "artist": "Franz Schubert",
+    "title": "Allegro moderato en Andante voor piano vierhandig D968",
+    "time": "0:05:24",
+    "composer": "Nicolas Callot (pianoforte) Lucas Blondeel (pianoforte)",
+    "label": "Klara 406851"
+  },
+  {
+    "starttime": "11:02",
+    "artist": "Carl Philip Emmanuel Bach",
+    "title": "Die Auferstehung und Himmelfahrt Jesu, Wq 240 (H 777) deel 1",
+    "time": "0:34:46",
+    "composer": "Hillevi Martinpelto (sopraan) Christoph Prégardien (tenor) Peter Harvey (bas) Collegium Vocale Gent Orchestra of the Age Of Enlightenment o.l.v. Philippe Herreweghe",
+    "label": "Virgin Classics 0777-7590692-9"
+  },
+  {
+    "starttime": "11:37",
+    "artist": "Modest Moessorgski",
+    "title": "Beelden uit een schilderijententoonstelling: Ballet-Twee Poolse Joden-Promenade-Limoges-Catacombae-Con mortuis in lingua morta",
+    "time": "0:11:04",
+    "composer": "Steven Osborne (piano)",
+    "label": "Hyperion 67896"
+  },
+  {
+    "starttime": "11:49",
+    "artist": "Friedrich Kalkbrenner",
+    "title": "Concerto nr.1 in d voor piano en orkest op.61: 2.Adagio di molto",
+    "time": "0:07:06",
+    "composer": "Howard Shelley (piano) Tasmanian Symphony Orchestra",
+    "label": "Hyperion 67535"
+  },
+  {
+    "starttime": "11:56",
+    "artist": "Johannes Brahms",
+    "title": "Sonate in f voor klarinet en piano op.120 nr.1: 4.Vivace",
+    "time": "0:05:07",
+    "composer": "Raphaël Sévère (klarinet) Adam Laloum (piano)",
+    "label": "Mirare MIR-250"
+  },
+  {
+    "starttime": "12:07",
+    "artist": "Juan Crisostomo de Arriaga",
+    "title": "Strijkkwartet nr.3 in Es: 4.Presto agitato",
+    "time": "0:06:40",
+    "composer": "Guarneri Quartet",
+    "label": "Newton classics 8802074"
+  },
+  {
+    "starttime": "12:14",
+    "artist": "Louis Théodore Gouvy",
+    "title": "Symfonie nr.6 in g op.87: 3.Andante con moto",
+    "time": "0:07:01",
+    "composer": "Deutsche Radio Philharmonie o.l.v. Jacques Mercier",
+    "label": "CPO 777380-2"
+  },
+  {
+    "starttime": "12:22",
+    "artist": "Johann Sebastian Bach",
+    "title": "Der Geist hilft unser Schwachheit auf, BWV 226 (voor dubbelkoor en basso continuo)",
+    "time": "0:07:53",
+    "composer": "Collegium Vocale Gent o.l.v. Philippe Herreweghe",
+    "label": "PHI LPH-002"
+  },
+  {
+    "starttime": "12:30",
+    "artist": "Heinrich von Herzogenberg",
+    "title": "Kwintet in Es op.43: 1.Allegro",
+    "time": "0:10:08",
+    "composer": "Oliver Triendl (piano) Leden van het Orsolino Quintett",
+    "label": "CPO 777081-2"
+  },
+  {
+    "starttime": "12:41",
+    "artist": "Heinrich Schütz",
+    "title": "Geistliche Chormusik, SWV 369-397: So fahr ich hin zu Jesu Christ, SWV 379",
+    "time": "0:03:21",
+    "composer": "Agnès Mellon (sopraan) Greta De Reyghere (sopraan) Monique Zanetti (sopraan) Howard Crook (altus) Jean-Paul Fouchecourt (tenor) Hervé Lamy (tenor) Renaud Machart (bas) Peter Kooij (bas) Peter Lika (bas) Choeur et Orchestre De La Chapelle Royale Collegium Vocale Gent o.l.v. Philippe Herreweghe",
+    "label": "Harmonia Mundi HMX-2981261"
+  },
+  {
+    "starttime": "12:44",
+    "artist": "Heinrich Schütz",
+    "title": "Geistliche Chormusik, SWV 369-397: Selig sind die Toten, SWV 391",
+    "time": "0:04:30",
+    "composer": "Agnès Mellon (sopraan) Greta De Reyghere (sopraan) Monique Zanetti (sopraan) Howard Crook (altus) Jean-Paul Fouchecourt (tenor) Hervé Lamy (tenor) Renaud Machart (bas) Peter Kooij (bas) Peter Lika (bas) Choeur et Orchestre De La Chapelle Royale Collegium Vocale Gent o.l.v. Philippe Herreweghe",
+    "label": "Harmonia Mundi HMX-2981261"
+  },
+  {
+    "starttime": "12:49",
+    "artist": "Heinrich Schütz",
+    "title": "Geistliche Chormusik, SWV 369-397: Die Himmel erzählen die Ehre Gottes, SWV 386 (soli en basso continuo)",
+    "time": "0:05:01",
+    "composer": "Agnès Mellon (sopraan) Greta De Reyghere (sopraan) Monique Zanetti (sopraan) Howard Crook (altus) Jean-Paul Fouchecourt (tenor) Hervé Lamy (tenor) Renaud Machart (bas) Peter Kooij (bas) Peter Lika (bas) Choeur et Orchestre De La Chapelle Royale Collegium Vocale Gent o.l.v. Philippe Herreweghe",
+    "label": "Harmonia Mundi HMX-2981261"
+  },
+  {
+    "starttime": "12:54",
+    "artist": "Antonin Dvorak",
+    "title": "Pianokwintet in A op.81: 4.Finale. Allegro",
+    "time": "0:08:00",
+    "composer": "Jonathan Biss (piano) Elias Quartet",
+    "label": "Onyx 4092"
+  },
+  {
+    "starttime": "13:07",
+    "artist": "Franz Schubert",
+    "title": "Octet in F D803: 3.Allegro vivace",
+    "time": "0:05:59",
+    "composer": "Northernlight; Edding Kwartet",
+    "label": "Phi 015"
+  },
+  {
+    "starttime": "13:17",
+    "artist": "Johann Sebastian Bach",
+    "title": "Cantate BWV125 Mit Fried und Freud ich fahr dahin",
+    "time": "0:22:34",
+    "composer": "Ingeborg Danz (mezzosopraan) Mark Padmore (tenor) Peter Kooij (bas) Collegium Vocale Gent o.l.v. Philippe Herreweghe",
+    "label": "Harmonia mundi 901659"
+  },
+  {
+    "starttime": "13:40",
+    "artist": "Lodewijk Mortelmans",
+    "title": "Het wielewaalt en leeuwerkt",
+    "time": "0:04:59",
+    "composer": "Jozef de Beenhouwer (piano)",
+    "label": "Phaedra 92015"
+  },
+  {
+    "starttime": "13:45",
+    "artist": "Felix Mendelssohn Bartholdy",
+    "title": "Hör mein Bitten, Herr (voor sopraan, koor en orgel)",
+    "time": "0:10:31",
+    "composer": "Greta De Reyghere (sopraan) Johan Huys (orgel) Ensemble Vocal Et Instrumental Chapelle Royale Collegium Vocale Gent o.l.v. Philippe Herreweghe",
+    "label": "Harmonia Mundi HMA-1951142"
+  },
+  {
+    "starttime": "13:56",
+    "artist": "Joseph Haydn",
+    "title": "Symfonie nr.47 in G: 1.Allegro",
+    "time": "0:05:35",
+    "composer": "Tafelmusik o.l.v. Bruno Weil",
+    "label": "Sony 53986"
+  },
+  {
+    "starttime": "14:03",
+    "artist": "Christian Cannabich",
+    "title": "Sinfonia in Es: 1.Allegro",
+    "time": "0:04:00",
+    "composer": "Concerto Köln",
+    "label": "Teldec 28366-2"
+  },
+  {
+    "starttime": "14:08",
+    "artist": "Christoph Willibald von Gluck",
+    "title": "Orfeo ed Euridice (Opera in drie bedrijven) Acte II, scene 1",
+    "time": "0:12:54",
+    "composer": "Marjanne Kweksilber (sopraan) René Jacobs (altus) Magdalena Falewicz (sopraan) Petite Bande Collegium Vocale Gent o.l.v. Sigiswald Kuijken",
+    "label": "Accent ACC-48223-D"
+  },
+  {
+    "starttime": "14:22",
+    "artist": "Ludwig van Beethoven",
+    "title": "Sonate nr.5 in F voor viool en piano op.24 Frühlingssonate: 2.Adagio molto espressivo",
+    "time": "0:05:52",
+    "composer": "Lorenzo Gatto (viool) Julien Libeer (piano)",
+    "label": "Alpha 407"
+  },
+  {
+    "starttime": "14:28",
+    "artist": "Edvard Grieg",
+    "title": "Peer Gynt Suite nr.1 op.46",
+    "time": "0:14:57",
+    "composer": "WDR Sinfonieorchester Köln o.l.v. Eivind Aadland",
+    "label": "Audite 92651"
+  },
+  {
+    "starttime": "14:44",
+    "artist": "Johann Kuhnau",
+    "title": "Gott, sei mir gnädig nach deiner Güte",
+    "time": "0:11:04",
+    "composer": "Deborah York (sopraan) Daniel Taylor (alt) Jan Kobow (tenor) Peter Kooij (bas) Collegium Vocale Gent o.l.v. Philippe Herreweghe",
+    "label": "Harmonia Mundi HMC-901703"
+  },
+  {
+    "starttime": "14:59",
+    "artist": "Claudio Monteverdi",
+    "title": "L'Orfeo (Favola in musica) Acte 1",
+    "time": "0:28:50",
+    "composer": "Furio Zanasi (tenor) Antonio Abete (bas) Arianna Savall (sopraan) Montserrat Figueras (sopraan) Sara Mingardo (mezzosopraan) Martin Oro (altus) Adriana Fernandez (alt) Fulvio Bettini (tenor) Daniele Carnovich (bas) Gerd Türk (tenor) Francesc Garrigosa (tenor) Collegium Vocale Gent La Capella Reial d Catalunya Le Concert des Nations olv Jordi Savall",
+    "label": "/VRT-opname Bozar 2012/ "
+  },
+  {
+    "starttime": "15:28",
+    "artist": "Wolfgang Amadeus Mozart",
+    "title": "Symfonie nr.37 in G KV425a",
+    "time": "0:13:28",
+    "composer": "Academy of Ancient Music o.l.v. Christopher Hogwood",
+    "label": "L'Oiseau Lyre 421 135-2"
+  },
+  {
+    "starttime": "15:42",
+    "artist": "Antonio Soler",
+    "title": "Sonate in Fis voor piano",
+    "time": "0:05:16",
+    "composer": "Stephen Hough (piano)",
+    "label": "Hyperion 67565"
+  },
+  {
+    "starttime": "15:51",
+    "artist": "Johann Sebastian Bach",
+    "title": "Johannespassie BWV245: Ach Herr lass dein lieb Engelein (slotkoraal)",
+    "time": "0:02:07",
+    "composer": "Collegium Vocale Gent o.l.v. Philippe Herreweghe",
+    "label": "Phi LPH 031"
+  },
+  {
+    "starttime": "15:53",
+    "artist": "Arthur Bliss",
+    "title": "Klarinetkwintet in A op.50: 2.Allegro molto",
+    "time": "0:07:32",
+    "composer": "Wolfgang Meyer (klarinet) Eisler Quartett",
+    "label": "Avi-music 8553216"
+  },
+  {
+    "starttime": "16:03",
+    "artist": "Robert Schumann",
+    "title": "Ouverture Manfred op.115",
+    "time": "0:11:28",
+    "composer": "Kölner Rundfunk-Sinfonie-Orchester o.l.v. Hans Vonk",
+    "label": "EMI 555273-2"
+  },
+  {
+    "starttime": "16:15",
+    "artist": "Heitor Villa-Lobos",
+    "title": "Prole do Bébé: 1.Branquinha-2.Moreninha-3.Caboclinha-4.Mulatinha",
+    "time": "0:08:59",
+    "composer": "Eliane Rodrigues (piano)",
+    "label": "Stylin' Art 09003"
+  },
+  {
+    "starttime": "16:28",
+    "artist": "Henry Purcell",
+    "title": "Hail! Bright Cecilia! (voor soli, koor en orkest): deel 1-5",
+    "time": "0:24:19",
+    "composer": "Susan Hamilton (sopraan) Siri Thornhill (sopraan) Robin Blaze (altus) Martin Van Der Zeijst (altus) Mark Padmore (tenor) Jonathan Arnold (bas) Peter Harvey (bas) Jonathan Brown (Bariton) (bas) Collegium Vocale Gent o.l.v. Philippe Herreweghe",
+    "label": "Harmonia Mundi HMC-901643"
+  },
+  {
+    "starttime": "16:52",
+    "artist": "Benjamin Grosvenor (piano)",
+    "title": "Frédéric Chopin -Scherzo nr. 3 in cis op.39",
+    "time": "0:06:34",
+    "composer": "Frédéric Chopin",
+    "label": "Decca 478 3206"
+  },
+  {
+    "starttime": "17:08",
+    "artist": "Sergej Prokofjev",
+    "title": "Sonate nr.4 in c voor piano op.29: 1.Allegro molto sostenuto",
+    "time": "0:05:16",
+    "composer": "Severin von Eckardstein (piano)",
+    "label": "RWE 553064"
+  },
+  {
+    "starttime": "17:14",
+    "artist": "Antonin Dvorak",
+    "title": "Requiem op.89: Graduale. Requiem aeternam",
+    "time": "0:04:37",
+    "composer": "Ilse Eerens (sopraan) Collegium Vocale Gent; Antwerp Symphony Orchestra o.l.v. Philippe Herreweghe",
+    "label": "PHI 016"
+  },
+  {
+    "starttime": "17:19",
+    "artist": "Antonin Dvorak",
+    "title": "Requiem op.89: Sanctus - Benedictus",
+    "time": "0:05:50",
+    "composer": "Ilse Eerens (sopraan) Bernarda Fink (alt) Maximilian Schmitt (tenor) Nathan Berg (bas) Collegium Vocale Gent; Antwerp Symphony Orchestra o.l.v. Philippe Herreweghe",
+    "label": "PHI 016"
+  },
+  {
+    "starttime": "17:25",
+    "artist": "Johann Sebastian Bach",
+    "title": "Partita nr.2 in d BWV1004: 5.Ciaconna",
+    "time": "0:11:37",
+    "composer": "Jean Rondeau (klavecimbel)",
+    "label": "Erato 0825646220090"
+  },
+  {
+    "starttime": "17:39",
+    "artist": "Claudio Monteverdi",
+    "title": "Ottavo libro de Madrigali/Madrigali guerrieri et amorosi: Volgendo il ciel",
+    "time": "0:09:28",
+    "composer": "Solisten en orkest van Collegium Vocale Gent o.l.v. Philippe Herreweghe",
+    "label": "VRT Opname "
+  },
+  {
+    "starttime": "17:48",
+    "artist": "Gioacchino Rossini",
+    "title": "Péchés de Vieillesse: Valse torturée",
+    "time": "0:05:54",
+    "composer": "Marco Sollini (piano)",
+    "label": "Chandos 10520"
+  },
+  {
+    "starttime": "17:55",
+    "artist": "Robert Schumann",
+    "title": "Fantasiestücke op.88: 4.Finale",
+    "time": "0:05:56",
+    "composer": "Trio Parnassus",
+    "label": "MDG 303 0921-2"
+  },
+  {
+    "starttime": "18:01",
+    "artist": "",
+    "title": "Nieuws",
+    "time": "0:00:20",
+    "composer": "",
+    "label": ""
+  },
+  {
+    "starttime": "18:09",
+    "artist": "Johannes Brahms",
+    "title": "3 Intermezzi op.117: 1.Andante moderato",
+    "time": "0:05:27",
+    "composer": "Nicholas Angelich (piano)",
+    "label": "Virgin Classics 00946-3 79302 2-9"
+  },
+  {
+    "starttime": "18:17",
+    "artist": "Igor Stravinski",
+    "title": "Psalmensymfonie (voor koor en orkest op psalmen 38, 39 en 150) /Symphony of Psalms/Symphonie de Psaumes",
+    "time": "0:19:08",
+    "composer": "Jan Michiels (piano) Inge Spinette (piano) Collegium Vocale Gent Antwerp Symphony Orchestra o.l.v. Philippe Herreweghe",
+    "label": "PentaTone classics PTC-5186 349"
+  },
+  {
+    "starttime": "18:37",
+    "artist": "Franz Schubert",
+    "title": "Pianotrio nr.2 in Es op.100 D929: 4.Finale (eerste uitgave)",
+    "time": "0:13:02",
+    "composer": "Vienna Piano Trio",
+    "label": "MDG 3421166-2"
+  },
+  {
+    "starttime": "18:50",
+    "artist": "Johan Severin Svendsen",
+    "title": "Noorse rapsodie nr.1 op.17",
+    "time": "0:07:42",
+    "composer": "Bergen Philharmonic Orchestra o.l.v. Neeme Järvi",
+    "label": "Chandos 10693"
+  },
+  {
+    "starttime": "18:58",
+    "artist": "Leos Janácek",
+    "title": "Rikadla, JW V/17 /Nursery Rhymes",
+    "time": "0:13:26",
+    "composer": "Het Collectief Collegium Vocale Gent o.l.v. Reinbert De Leeuw",
+    "label": "Alpha 719"
+  },
+  {
+    "starttime": "19:12",
+    "artist": "Wolfgang Amadeus Mozart",
+    "title": "Pianokwartet nr.2 in Es KV493: 3.Allegretto",
+    "time": "0:08:45",
+    "composer": "Daniel Barenboim (piano) Michael Barenboim (viool) Julia Deyneka (altviool) Kian Soltani (cello)",
+    "label": "Deutsche Grammophon 00289 483 5255"
+  },
+  {
+    "starttime": "19:22",
+    "artist": "Willem De Fesch",
+    "title": "Concerto grosso in F voor 2 violen, cello, strijkers en b.c. op.10 nr.5",
+    "time": "0:06:25",
+    "composer": "Dirk Lippens (viool) Bernadette Bracke (viool) Lieven Baert (cello) Collegium Instrumentale Brugense o.l.v. Patrick Peire",
+    "label": "Eufoda 1216"
+  },
+  {
+    "starttime": "19:29",
+    "artist": "Orlandus Lassus",
+    "title": "Psalmi Davidis poenitentiales /Boetepsalmen - Domine ne in furore",
+    "time": "0:27:05",
+    "composer": "Collegium Vocale Gent o.l.v. Philippe Herreweghe",
+    "label": "Harmonia Mundi HMC-901831"
+  },
+  {
+    "starttime": "19:56",
+    "artist": "Benjamin Godard",
+    "title": "Sonate nr.2 in a voor viool en piano op.2: 4.Finale. Allegro",
+    "time": "0:04:11",
+    "composer": "Nicolas Dautricourt (viool) Dana Ciocarlie (piano)",
+    "label": "Aparté AP 124"
+  },
+  {
+    "starttime": "20:00",
+    "artist": "",
+    "title": "Nieuws",
+    "time": "0:00:20",
+    "composer": "",
+    "label": ""
+  },
+  {
+    "starttime": "20:04",
+    "artist": "Camille Saint-Saëns",
+    "title": "Introduction et Rondo Capriccioso",
+    "time": "0:08:59",
+    "composer": "Leila Josefowicz (viool) Academy of St Martin in the Fields o.l.v. Sir Neville Marriner",
+    "label": "Philips 454 440-2"
+  },
+  {
+    "starttime": "20:23",
+    "artist": "Felix Mendelssohn Bartholdy",
+    "title": "Ehre sei Gott in der Höhe",
+    "time": "0:04:24",
+    "composer": "Ensemble Vocal et Instrumental Chapelle Royale Collegium Vocale Gent o.l.v. Philippe Herreweghe",
+    "label": "Harmonia Mundi HMA-1951142"
+  },
+  {
+    "starttime": "20:38",
+    "artist": "Felix Mendelssohn Bartholdy",
+    "title": "Elias, op. 70 - deel 1",
+    "time": "1:04:15",
+    "composer": "Soile Isokoski (sopraan) Delphine Collot (sopraan) Monica Groop (alt) John Mark Ainsley (tenor) Petteri Salomaa (bas) Collegium Vocale Gent Choeur De La Chapelle Royale Orchestre Des Champs Elysees o.l.v. Philippe Herreweghe",
+    "label": "Harmonia Mundi HMC-901463"
+  },
+  {
+    "starttime": "21:44",
+    "artist": "Felix Mendelssohn Bartholdy",
+    "title": "Elias, op. 70 - deel 2",
+    "time": "1:02:44",
+    "composer": "Soile Isokoski (sopraan) Delphine Collot (sopraan) Monica Groop (alt) John Mark Ainsley (tenor) Petteri Salomaa (bas) Collegium Vocale Gent Choeur De La Chapelle Royale Orchestre Des Champs Elysees o.l.v. Philippe Herreweghe",
+    "label": "Harmonia Mundi HMC-901463"
+  },
+  {
+    "starttime": "22:48",
+    "artist": "Johannes Brahms",
+    "title": "Symfonie nr.3 in F op.90: 3.Poco allegretto",
+    "time": "0:05:52",
+    "composer": "Orchestre Révolutionnaire et Romantique o.l.v. Sir John Eliot Gardiner",
+    "label": "Soli Deo Gloria 704"
+  },
+  {
+    "starttime": "22:54",
+    "artist": "Max Bruch",
+    "title": "Kol Nidrei op.47",
+    "time": "0:11:08",
+    "composer": "Truls Mork (cello) Orchestre Philharmonique de Radio France o.l.v. Paavo Järvi",
+    "label": "Virgin Classics 5 45664 2"
+  },
+  {
+    "starttime": "23:02",
+    "artist": "Frederick Delius",
+    "title": "On hearing the first cuckoo in spring",
+    "time": "0:06:37",
+    "composer": "Bournemouth Sinfonietta o.l.v. Richard Hickox",
+    "label": "Chandos 6502"
+  },
+  {
+    "starttime": "23:08",
+    "artist": "Ferdinand Ries",
+    "title": "Sonate in g voor klarinet en piano: 2.Adagio con moto",
+    "time": "0:04:55",
+    "composer": "Dieter Klöcker (klarinet) Thomas Duis (piano)",
+    "label": "CPO 777036-2"
+  },
+  {
+    "starttime": "23:13",
+    "artist": "Christopher Bond",
+    "title": "A Pacific Melody",
+    "time": "0:04:55",
+    "composer": "Lode Violet (cornet) Brassband Willebroek o.l.v. Frans Violet",
+    "label": "Mira 89150-2"
+  },
+  {
+    "starttime": "23:18",
+    "artist": "Jean Françaix",
+    "title": "Petit quatuor: Cantilène",
+    "time": "0:02:20",
+    "composer": "Ernst Ottensamer (basklarinet) Andreas Ottensamer (klarinet) Daniel Ottensamer (bassethoorn)",
+    "label": "Deutsche Grammophon 002894811917"
+  },
+  {
+    "starttime": "23:20",
+    "artist": "John Williams",
+    "title": "Memoirs of a geisha: The chairman's waltz",
+    "time": "0:02:39",
+    "composer": "Studio-orkest o.l.v. John Williams",
+    "label": "CD: The original soundtrack - EMI 57972"
+  },
+  {
+    "starttime": "23:23",
+    "artist": "Johannes Brahms",
+    "title": "Pianokwartet nr.3 in c op.60: 3.Andante",
+    "time": "0:09:08",
+    "composer": "Emanuel Ax (piano) Isaac Stern (viool) Jaime Laredo (altviool) Yo-Yo Ma (cello)",
+    "label": "Sony Classical 45846"
+  },
+  {
+    "starttime": "23:32",
+    "artist": "Richard Strauss",
+    "title": "Morgen! op.27 nr.4",
+    "time": "0:03:31",
+    "composer": "Peter Gijsbertsen (tenor) Jozef de Beenhouwer (piano)",
+    "label": "Phaedra PH 292035"
+  },
+  {
+    "starttime": "23:36",
+    "artist": "Franz Xaver Mozart",
+    "title": "6 Polonaises mélancoliques op.17: nr.1 in b",
+    "time": "0:04:05",
+    "composer": "Yaara Tal (piano)",
+    "label": "Sony Classical 88985446942"
+  },
+  {
+    "starttime": "23:40",
+    "artist": "Gaetano Maria Schiassi",
+    "title": "Maria Vergine al Calvario: L'agnelletta timidetta",
+    "time": "0:05:28",
+    "composer": "Jakub Jozef Orlinski (contratenor) Il Pomo d'Oro o.l.v. Maxim Emelyanychev",
+    "label": "Erato 0190295633745"
+  },
+  {
+    "starttime": "23:45",
+    "artist": "Georg Philipp Telemann",
+    "title": "Ouverture in D voor 2 trompetten, fagot, strijkers en b.c.",
+    "time": "0:14:17",
+    "composer": "Manu Mellaerts (trompet) Steven Devolder (trompet) Collegium Instrumentale Brugense o.l.v. Patrick Peire",
+    "label": "Brilliant classics 94411"
+  }
+]
