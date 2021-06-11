@@ -1,0 +1,1330 @@
+[
+  {
+    "starttime": "00:06",
+    "artist": "Claude Debussy",
+    "title": "Les soirs illuminés par l'ardeur du charbon",
+    "time": "0:01:58",
+    "composer": "David Kadouch (piano)",
+    "label": "Mirare MIR428"
+  },
+  {
+    "starttime": "00:08",
+    "artist": "Joseph Haydn",
+    "title": "Strijkkwartet in C op.64 nr.1: 2.Menuet",
+    "time": "0:04:19",
+    "composer": "Auryn Quartett",
+    "label": "Tacet 189"
+  },
+  {
+    "starttime": "00:12",
+    "artist": "Wolfgang Amadeus Mozart",
+    "title": "Concerto nr.26 in D voor piano en orkest KV537: 2.Larghetto",
+    "time": "0:07:13",
+    "composer": "Murray Perahia (piano) English Chamber Orchestra",
+    "label": "CBS 39224"
+  },
+  {
+    "starttime": "00:19",
+    "artist": "François Couperin",
+    "title": "Quatrième livre de pièces de clavecin: Les Ombres Errantes",
+    "time": "0:03:42",
+    "composer": "Iddo Bar-Shaï (piano)",
+    "label": "Mirare 195"
+  },
+  {
+    "starttime": "00:23",
+    "artist": "Felix Mendelssohn",
+    "title": "Concerto in d voor viool, piano en strijkorkest: 2.Adagio",
+    "time": "0:10:16",
+    "composer": "Shlomo Mintz (viool) Roberto Prosseda (piano) Symfonieorkest Vlaanderen o.l.v. Jan Latham-Koenig",
+    "label": "Decca 481 8483"
+  },
+  {
+    "starttime": "00:33",
+    "artist": "Charlie Chaplin",
+    "title": "Modern Times: Into the Sunset (Smile)",
+    "time": "0:03:18",
+    "composer": "Deutsches Symphonie-Orchester Berlin o.l.v. Carl Davis",
+    "label": "RCA Victor 09026-68271-2"
+  },
+  {
+    "starttime": "00:36",
+    "artist": "Vincenzo Bellini",
+    "title": "I Capuleti e I Montecchi: Dopo l'oscuro nembo",
+    "time": "0:06:25",
+    "composer": "Joyce DiDonato (mezzosopraan) Orchestre de L'Opéra National de Lyon o.l.v. Riccardo Minasi",
+    "label": "Erato 0825646365623"
+  },
+  {
+    "starttime": "00:43",
+    "artist": "Igor Stravinsky",
+    "title": "De vuurvogel: Berceuse (arr.)",
+    "time": "0:02:45",
+    "composer": "Anthony Marwood (viool) Thomas Adès (piano)",
+    "label": "Hyperion 67723"
+  },
+  {
+    "starttime": "00:46",
+    "artist": "Josef Myslivecek",
+    "title": "Sonate nr.6 voor piano",
+    "time": "0:06:41",
+    "composer": "Clare Hammond (piano)",
+    "label": "BIS 2393"
+  },
+  {
+    "starttime": "00:52",
+    "artist": "Carl Philipp Emanuel Bach",
+    "title": "Concerto in G voor fluit, strijkers en b.c. Wq169: 2.Largo",
+    "time": "0:08:08",
+    "composer": "Patrick Gallois (fluit) Kammerorchester Carl Philipp Emanuel Bach o.l.v. Peter Schreier",
+    "label": "DG 439895-2"
+  },
+  {
+    "starttime": "01:01",
+    "artist": "Johann Sebastian Bach/arr.Thomas Dunford",
+    "title": "Suite nr.1 in G voor cello solo BWV1007 (arr. voor luit)",
+    "time": "0:18:06",
+    "composer": "Thomas Dunford (aartsluit)",
+    "label": "Alpha 361"
+  },
+  {
+    "starttime": "01:19",
+    "artist": "Michael Haydn",
+    "title": "Symfonie in F",
+    "time": "0:10:29",
+    "composer": "Deutsche Kammerakademie Neuss o.l.v. Frank Beermann",
+    "label": "CPO 777137-2"
+  },
+  {
+    "starttime": "01:29",
+    "artist": "Ludwig van Beethoven",
+    "title": "Sonate nr.4 in a voor viool en piano op.23",
+    "time": "0:19:43",
+    "composer": "Julien Libeer (piano) Lorenzo Gatto (viool)",
+    "label": "Alpha 240"
+  },
+  {
+    "starttime": "01:49",
+    "artist": "Franz Liszt",
+    "title": "Années de Pèlerinage Troisième année: 4.Les Jeux d'eaux à la Villa d'Este",
+    "time": "0:08:07",
+    "composer": "Simon Trpceski (piano)",
+    "label": "Wigmore Hall Live 0058"
+  },
+  {
+    "starttime": "01:57",
+    "artist": "Joseph Haydn",
+    "title": "Pianotrio nr.40 in fis",
+    "time": "0:16:20",
+    "composer": "Florestan Trio",
+    "label": "Hyperion 67719"
+  },
+  {
+    "starttime": "02:14",
+    "artist": "Johann Friedrich Fasch",
+    "title": "Concerto in Bes voor chalumeau, hobo's, strijkers en b.c.",
+    "time": "0:11:10",
+    "composer": "Christian Leitherer (chalumeau) Main-barockorchester Frankfurt o.l.v. Martin Jopp",
+    "label": "Aeolus 10017"
+  },
+  {
+    "starttime": "02:25",
+    "artist": "Johann Sebastian Bach",
+    "title": "Suite nr.4 in D voor orkest BWV1069",
+    "time": "0:18:35",
+    "composer": "La Petite Bande o.l.v. Sigiswald Kuijken",
+    "label": "Accent 24279"
+  },
+  {
+    "starttime": "02:43",
+    "artist": "Antonin Dvorak",
+    "title": "Pianokwintet in A op.81: 4.Finale. Allegro",
+    "time": "0:07:44",
+    "composer": "Schubert Ensemble",
+    "label": "Chandos 10719"
+  },
+  {
+    "starttime": "02:51",
+    "artist": "Jules Massenet",
+    "title": "Scènes Alsaciennes",
+    "time": "0:22:45",
+    "composer": "Orchestre National de l'Opéra de Monte-Carlo o.l.v. Sir John Eliot Gardiner",
+    "label": "Erato 2292-45859-2"
+  },
+  {
+    "starttime": "03:14",
+    "artist": "Ludwig van Beethoven",
+    "title": "Concerto nr.5 in Es voor piano en orkest op.73 Keizersconcerto: 2.Adagio un poco moto-3.Rondo",
+    "time": "0:18:40",
+    "composer": "Olli Mustonen (piano) Tapiola Sinfonietta",
+    "label": "Ondine 1146-5"
+  },
+  {
+    "starttime": "03:33",
+    "artist": "Georg Philipp Telemann",
+    "title": "Sonate in a voor blokfluit, viool en b.c. TWV42:a4",
+    "time": "0:10:23",
+    "composer": "New Collegium",
+    "label": "Ramée RAM 1904"
+  },
+  {
+    "starttime": "03:43",
+    "artist": "Joseph Haydn",
+    "title": "Symfonie nr.44 in e Trauer",
+    "time": "0:20:54",
+    "composer": "Anima Eterna Brugge o.l.v. Jos van Immerseel",
+    "label": "Zig-Zag 040203"
+  },
+  {
+    "starttime": "04:04",
+    "artist": "Carl Frühling",
+    "title": "Trio in a voor klarinet, cello en piano op.40: 4.Allegro vivace",
+    "time": "0:05:07",
+    "composer": "Michael Collins (klarinet) Steven Isserlis (cello) Stephen Hough (piano)",
+    "label": "RCA 09026-63504-2"
+  },
+  {
+    "starttime": "04:09",
+    "artist": "Sergej Rachmaninov",
+    "title": "Concerto nr.3 in d voor piano en orkest op.30: 1.Allegro ma non tanto",
+    "time": "0:16:25",
+    "composer": "Leif Ove Andsnes (piano) Oslo Philharmonic Orchestra o.l.v. Paavo Berglund",
+    "label": "Virgin 545173-2"
+  },
+  {
+    "starttime": "04:26",
+    "artist": "George Frideric Handel",
+    "title": "Concerto grosso in F op.6 nr.2",
+    "time": "0:10:45",
+    "composer": "Akademie Fur Alte Musik Berlin",
+    "label": "PentaTone classics PTC5186737"
+  },
+  {
+    "starttime": "04:36",
+    "artist": "Felix Mendelssohn",
+    "title": "Concerto nr.1 in g voor piano en orkest op.25",
+    "time": "0:20:35",
+    "composer": "Martin Helmchen (piano) De Filharmonie o.l.v. Philippe Herreweghe",
+    "label": "Pentatone 5186 366"
+  },
+  {
+    "starttime": "04:57",
+    "artist": "Antonio Caldara",
+    "title": "Nitocri: Fortuna e speranza",
+    "time": "0:09:55",
+    "composer": "Cecilia Bartoli (sopraan) Sol Gabetta (cello) Cappella Gabetta o.l.v. Andrés Gabetta",
+    "label": "Decca 483 2473"
+  },
+  {
+    "starttime": "05:07",
+    "artist": "Georg Philipp Telemann",
+    "title": "Concerto in a voor blokfluit, gamba, strijkers en b.c. TWV52:a1 (Met een pre- en postlude op cimbalom)",
+    "time": "0:15:57",
+    "composer": "Dorothee Oberlinger (blokfluit) Vittorio Ghielmi (gamba) Marcel Comendant (cimbalom) Il Suonar Parlante Orchestra",
+    "label": "Passacaille 972"
+  },
+  {
+    "starttime": "05:23",
+    "artist": "Pieter Hellendaal",
+    "title": "Concerto grosso op.3 nr.4",
+    "time": "0:11:15",
+    "composer": "Andrew Manze (viool) European Community Baroque Orchestra o.l.v. Roy Goodman",
+    "label": "Channel classics 3492"
+  },
+  {
+    "starttime": "05:34",
+    "artist": "Johann Joseph Fux",
+    "title": "Ouverture in Bes",
+    "time": "0:16:05",
+    "composer": "Il Fondamento o.l.v. Paul Dombrecht",
+    "label": "Passacaille 99605"
+  },
+  {
+    "starttime": "05:50",
+    "artist": "Ludwig van Beethoven",
+    "title": "Sonate nr.1 in D voor viool en piano op.12 nr.1: 2.Andante con moto. Tema con variazioni",
+    "time": "0:06:27",
+    "composer": "Isabelle Faust (viool) Alexander Melnikov (piano)",
+    "label": "Harmonia mundi 902027"
+  },
+  {
+    "starttime": "05:57",
+    "artist": "Johann Sebastian Bach",
+    "title": "Suite nr.6 in D voor cello solo BWV1012: 5.Gavottes I &amp; II",
+    "time": "0:03:20",
+    "composer": "Jean-Guihen Queyras (cello)",
+    "label": "Harmonia mundi 901970.71"
+  },
+  {
+    "starttime": "06:04",
+    "artist": "Laurent Korcia (viool) Florin Niculescu (viool) Christophe Lartilleux (gitaar) Jean-Philippe Viret (contrabas)",
+    "title": "Minor Swing",
+    "time": "0:02:47",
+    "composer": "Django Reinhardt/Stéphane Grappelli",
+    "label": "Naïve V 5066"
+  },
+  {
+    "starttime": "06:07",
+    "artist": "Isaac Albeniz",
+    "title": "Iberia Boek 4: 12.Eritaña",
+    "time": "0:06:15",
+    "composer": "Artur Pizarro (piano)",
+    "label": "Linn 355"
+  },
+  {
+    "starttime": "06:14",
+    "artist": "Carl Philipp Emanuel Bach",
+    "title": "Symfonie in Bes Wq182 nr.2",
+    "time": "0:10:29",
+    "composer": "Gli Incogniti o.l.v. Amandine Beyer",
+    "label": "Harmonia Mundi HMM-905321"
+  },
+  {
+    "starttime": "06:24",
+    "artist": "Hugo Wolf",
+    "title": "Eichendorff Lieder: Das Ständchen",
+    "time": "0:02:25",
+    "composer": "Christoph Prégardien (tenor) Michael Gees (piano)",
+    "label": "Challenge 72324"
+  },
+  {
+    "starttime": "06:27",
+    "artist": "Johannes Brahms",
+    "title": "Klarinetkwintet in b op.115: 3.Andantino",
+    "time": "0:04:44",
+    "composer": "Joan Enric Lluna (klarinet) Tokyo String Quartet",
+    "label": "Harmonia mundi 131320"
+  },
+  {
+    "starttime": "06:33",
+    "artist": "Wolfgang Amadeus Mozart",
+    "title": "Sonate in D voor 2 piano's KV448: 1.Allegro con spirito",
+    "time": "0:07:59",
+    "composer": "Martha Argerich (piano) Daniel Barenboim (piano)",
+    "label": "Deutsche Grammophon 00289-479-3922"
+  },
+  {
+    "starttime": "06:42",
+    "artist": "Ludwig van Beethoven",
+    "title": "Romance nr.2 in F voor viool en orkest op.50",
+    "time": "0:07:21",
+    "composer": "Patricia Kopatsjinskaja (viool) Orchestre des Champs-Elysées o.l.v. Philippe Herreweghe",
+    "label": "Naïve 5174"
+  },
+  {
+    "starttime": "06:49",
+    "artist": "Josef Labor",
+    "title": "Sonate nr.1 in A voor cello en piano op.7: 2. Scherzo. Allegro molto",
+    "time": "0:02:43",
+    "composer": "Floris Mijnders (cello) Oliver Triendl (piano)",
+    "label": "Capriccio C5430"
+  },
+  {
+    "starttime": "06:52",
+    "artist": "Carlos Guastavino",
+    "title": "Violetas",
+    "time": "0:02:45",
+    "composer": "Rolando Villazon (tenor) Xavier de Maistre (harp)",
+    "label": "Deutsche Grammophon 4838238"
+  },
+  {
+    "starttime": "06:56",
+    "artist": "Camille Saint-Saëns",
+    "title": "Symfonie nr.2 in a op.55: 4.Prestissimo",
+    "time": "0:07:00",
+    "composer": "Utah Symphony o.l.v. Thierry Fischer",
+    "label": "Hyperion CDA68212"
+  },
+  {
+    "starttime": "07:08",
+    "artist": "Maurice Ravel",
+    "title": "Sonatine voor piano: 3.Animé",
+    "time": "0:03:43",
+    "composer": "Dejan Lazic (piano)",
+    "label": "Channel 17598"
+  },
+  {
+    "starttime": "07:17",
+    "artist": "Franz Schubert",
+    "title": "Strijkkwartet in Es, D87: 2.Scherzo",
+    "time": "0:02:10",
+    "composer": "Desguin Kwartet",
+    "label": "Eigen Beheer "
+  },
+  {
+    "starttime": "07:19",
+    "artist": "Robert Schumann",
+    "title": "Frauenliebe und Leben op.42: 2.Er, der Herrlichste von allen",
+    "time": "0:03:13",
+    "composer": "Carolyn Sampson (sopraan) Joseph Middleton (piano)",
+    "label": "BIS 2473"
+  },
+  {
+    "starttime": "07:23",
+    "artist": "Felix Mendelssohn",
+    "title": "Symfonie nr.2 in Bes op.52 Lobgesang: 3.Adagio religioso",
+    "time": "0:06:25",
+    "composer": "London Symphony Orchestra o.l.v. Sir John Eliot Gardiner",
+    "label": "LSO LSO 0803"
+  },
+  {
+    "starttime": "07:34",
+    "artist": "Stéfano Di Battista (sopraansaxofoon) Fred Nardin (piano) André Ceccarelli (drums) Daniele Sorrentino (contrabas)",
+    "title": "Cosa avete fatto a Solange (From \"What Have You Done to Solange?\")",
+    "time": "0:03:59",
+    "composer": "Ennio Morricone",
+    "label": "Warner Recorded Music 190295044244"
+  },
+  {
+    "starttime": "07:38",
+    "artist": "Claude Debussy",
+    "title": "Sonate voor fluit, altviool en harp, L 137 /Sonate nr.2: 2.Interlude",
+    "time": "0:06:06",
+    "composer": "Revue Blanche",
+    "label": "Warner Classics 5054196726355"
+  },
+  {
+    "starttime": "07:46",
+    "artist": "Giuseppe Verdi",
+    "title": "Il Trovatore: Vedi! Le fosche notturne spoglie",
+    "time": "0:02:52",
+    "composer": "Coro dell'Accademia Nazionale di Santa Cecilia; Orchestra dell'Accademia Nazionale di Santa Cecilia o.l.v. Carlo Maria Giulini",
+    "label": "DG 459245-2"
+  },
+  {
+    "starttime": "07:49",
+    "artist": "Anton Arensky",
+    "title": "Suite nr.1 voor 2 piano's op.15: 2.Valse",
+    "time": "0:04:48",
+    "composer": "Lucas Jussen (piano) Arthur Jussen (piano)",
+    "label": "Deutsche Grammophon 485 5371"
+  },
+  {
+    "starttime": "07:54",
+    "artist": "Louis Spohr",
+    "title": "Symfonie nr.3 in c op.78: 3.Scherzo",
+    "time": "0:06:44",
+    "composer": "Orchestra della Svizzera Italiana o.l.v. Howard Shelley",
+    "label": "Hyperion 67788"
+  },
+  {
+    "starttime": "08:09",
+    "artist": "Joseph Haydn",
+    "title": "Pianotrio nr.23 in d: 3.Finale. Vivace",
+    "time": "0:04:34",
+    "composer": "Trio Jean Paul",
+    "label": "AvI Music 8553311"
+  },
+  {
+    "starttime": "08:14",
+    "artist": "Toru Takemitsu",
+    "title": "Toward the Sea II: 2.Moby Dick",
+    "time": "0:03:56",
+    "composer": "Patrick Gallois (altfluit) Fabrice Pierre (harp) BBC Symphony Orchestra o.l.v. Andrew Davis",
+    "label": "Deutsche Grammophon 453 459-2"
+  },
+  {
+    "starttime": "08:18",
+    "artist": "Claudio Monteverdi",
+    "title": "Ottavo libro dei Madrigali: Lamento della Ninfa (Amor)",
+    "time": "0:03:56",
+    "composer": "Dorothee Mields (sopraan) Lautten Compagney o.l.v. Wolfgang Katschner",
+    "label": "Deutsche Harmonia Mundi 88985491572"
+  },
+  {
+    "starttime": "08:23",
+    "artist": "Antoine Forqueray",
+    "title": "La Dubreuil",
+    "time": "0:03:30",
+    "composer": "André Lislevand (basgamba) Jadran Duncumb (theorbe)",
+    "label": "Arcana A-486"
+  },
+  {
+    "starttime": "08:27",
+    "artist": "Théodore Dubois",
+    "title": "Symfonie nr.2: 3.Allegretto",
+    "time": "0:04:44",
+    "composer": "Brussels Philharmonic o.l.v. Hervé Niquet",
+    "label": "Ediciones Singulares ES-1018"
+  },
+  {
+    "starttime": "08:33",
+    "artist": "Heinrich von Herzogenberg",
+    "title": "Sonate nr.2 voor cello en piano op.64: 1.Allegro",
+    "time": "0:06:04",
+    "composer": "Claudius Herrmann (cello) Saiko Sasaki (piano)",
+    "label": "CPO 999 625-2"
+  },
+  {
+    "starttime": "08:40",
+    "artist": "Wolfgang Amadeus Mozart",
+    "title": "Rondo in C voor viool en orkest KV373 (arr.)",
+    "time": "0:06:11",
+    "composer": "Albrecht Mayer (hobo) Deutsche Kammerphilharmonie Bremen",
+    "label": "Deutsche Grammophon 002894838232"
+  },
+  {
+    "starttime": "08:47",
+    "artist": "Ottorino Respighi",
+    "title": "Zes stukken voor piano/Sei Pezzi: Notturno /Nr. 3",
+    "time": "0:04:37",
+    "composer": "Emmy Wils (piano)",
+    "label": "VRT Opname "
+  },
+  {
+    "starttime": "08:52",
+    "artist": "Frederick Delius",
+    "title": "Strijkkwartet: 2.Quick and lightly",
+    "time": "0:04:38",
+    "composer": "Britten Quartet",
+    "label": "EMI 555349-2"
+  },
+  {
+    "starttime": "08:57",
+    "artist": "Bert Joris",
+    "title": "Only for the honest",
+    "time": "0:06:27",
+    "composer": "Kurt Van Herck (tenorsaxofoon) Bert Joris (trompet) Hendrik Braeckman (gitaar) Brussels Jazz Orchestra",
+    "label": "De Werf 144"
+  },
+  {
+    "starttime": "09:08",
+    "artist": "Johann Gottlieb Graun",
+    "title": "Ouverture en Allegro in d",
+    "time": "0:11:47",
+    "composer": "Akademie für Alte Musik Berlin o.l.v. Stephan Mai",
+    "label": "Harmonia mundi 902132"
+  },
+  {
+    "starttime": "09:20",
+    "artist": "Luciano Berio",
+    "title": "Folk Songs: 1.Black is the Colour",
+    "time": "0:02:42",
+    "composer": "Lucile Richardot (mezzosopraan) Cris De Paris o.l.v. Geoffroy Jourdain",
+    "label": "Harmonia Mundi HMM-902647"
+  },
+  {
+    "starttime": "09:23",
+    "artist": "Luciano Berio",
+    "title": "Folk Songs: 2.I Wonder As I Wander",
+    "time": "0:02:01",
+    "composer": "Lucile Richardot (mezzosopraan) Cris De Paris o.l.v. Geoffroy Jourdain",
+    "label": "Harmonia Mundi HMM-902647"
+  },
+  {
+    "starttime": "09:25",
+    "artist": "Aram Katsjatoerjan",
+    "title": "Spartacus: Adagio",
+    "time": "0:09:58",
+    "composer": "Bournemouth Symphony Orchestra o.l.v. Kirill Karabits",
+    "label": "Onyx 4063"
+  },
+  {
+    "starttime": "09:36",
+    "artist": "Bela Bartok",
+    "title": "Voor Kinderen: 9 Hongaarse volksliederen (in een transcr. voor viool en piano)",
+    "time": "0:09:03",
+    "composer": "James Ehnes (viool) Andrew Armstrong (piano)",
+    "label": "Chandos 10752"
+  },
+  {
+    "starttime": "09:45",
+    "artist": "Peter Tsjaikovski",
+    "title": "Strijkkwartet nr.1 in D op.11: 2.Andante cantabile",
+    "time": "0:07:14",
+    "composer": "Jerusalem Quartet",
+    "label": "EMI 574349-2"
+  },
+  {
+    "starttime": "09:53",
+    "artist": "Josef Myslivecek",
+    "title": "Concerto in D voor fluit en orkest: 1.Allegro moderato",
+    "time": "0:06:28",
+    "composer": "Ana De La Vega (fluit) English Chamber Orchestra o.l.v. Stephanie Gonley",
+    "label": "PentaTone classics PTC 5186 723"
+  },
+  {
+    "starttime": "10:04",
+    "artist": "Oskar Böhme",
+    "title": "Sextet in es voor koperblazers op.30: 4.Finale. Allegro con spirito",
+    "time": "0:03:44",
+    "composer": "Jack Sutte (trompet) Center City Brass Quintet",
+    "label": "Chandos 130212"
+  },
+  {
+    "starttime": "10:08",
+    "artist": "Joseph Haydn",
+    "title": "Sonate nr.38 in F voor piano",
+    "time": "0:16:37",
+    "composer": "Emanuel Ax (piano)",
+    "label": "CBS MK-44918"
+  },
+  {
+    "starttime": "10:25",
+    "artist": "Joseph Canteloube",
+    "title": "Chants d'Auvergne: Trois Bourrées",
+    "time": "0:06:29",
+    "composer": "Maria Bayo (sopraan) Orquesta Sinfonica de Tenerife o.l.v. Victor Pablo Perez",
+    "label": "Valois 4811"
+  },
+  {
+    "starttime": "10:32",
+    "artist": "Claude Debussy",
+    "title": "Suite bergamasque: 3.Clair de lune (arr.)",
+    "time": "0:04:49",
+    "composer": "Gautier Capuçon (cello) Orchestre de Chambre de Paris o.l.v. Adrien Perruchon",
+    "label": "Erato 0190295214043"
+  },
+  {
+    "starttime": "10:37",
+    "artist": "Gabriel Fauré",
+    "title": "Pavane op.50 (arr.)",
+    "time": "0:06:20",
+    "composer": "Gautier Capuçon (cello) Orchestre de Chambre de Paris o.l.v. Adrien Perruchon",
+    "label": "Erato 0190295214043"
+  },
+  {
+    "starttime": "10:44",
+    "artist": "Léo Delibes",
+    "title": "Orkestsuite Sylvia: Les Chasseresses - Intermezzo - Valse lente",
+    "time": "0:08:09",
+    "composer": "Royal Scottish National Orchestra o.l.v. Neeme Järvi",
+    "label": "Chandos CHSA-5257"
+  },
+  {
+    "starttime": "10:52",
+    "artist": "Wolfgang Amadeus Mozart",
+    "title": "Strijkkwartet nr.17 in Bes KV458 Jachtkwartet: 1.Allegro vivace assai",
+    "time": "0:08:18",
+    "composer": "Hagen Quartett",
+    "label": "DG 471 024-2"
+  },
+  {
+    "starttime": "11:04",
+    "artist": "Antonio Vivaldi",
+    "title": "Concerto in C voor viool, strijkers en b.c. RV187",
+    "time": "0:11:45",
+    "composer": "Viktoria Mullova (viool) Il Giardino Armonico o.l.v. Giovanni Antonini",
+    "label": "Onyx 4001"
+  },
+  {
+    "starttime": "11:16",
+    "artist": "Joseph Haydn",
+    "title": "Barytontrio nr.14 in D",
+    "time": "0:11:14",
+    "composer": "Rincontro",
+    "label": "Rewind 504"
+  },
+  {
+    "starttime": "11:28",
+    "artist": "Gaetano Donizetti",
+    "title": "L'elisir d'amore: Una furtiva lagrima",
+    "time": "0:04:36",
+    "composer": "Juan Diego Florez (tenor) Orchestra Sinfonica di Milano Giuseppe Verdi o.l.v. Riccardo Frizza",
+    "label": "Decca 473 440-2"
+  },
+  {
+    "starttime": "11:32",
+    "artist": "Armando Tejada Gomez",
+    "title": "Cancion con todos",
+    "time": "0:03:07",
+    "composer": "Juan Diego Florez (tenor) Jonathan Bolivar (gitaar)",
+    "label": "Sony Classical 190758229423"
+  },
+  {
+    "starttime": "11:36",
+    "artist": "Joaquin Rodrigo",
+    "title": "Concierto serenata voor harp en orkest: 1.Estudiantina",
+    "time": "0:08:25",
+    "composer": "Isabelle Moretti (harp) Real Orquesta Sinfonica de Sevilla o.l.v. Edmon Colomer",
+    "label": "Valois 4815"
+  },
+  {
+    "starttime": "11:45",
+    "artist": "Carlos Guastavino/arr.Kim Kashkashian en Robert Levin",
+    "title": "Se equivoco la paloma",
+    "time": "0:02:15",
+    "composer": "Kim Kashkashian (altviool) Robert Levin (piano)",
+    "label": "ECM 476 6149"
+  },
+  {
+    "starttime": "11:47",
+    "artist": "Carlos Guastavino/arr.Kim Kashkashian en Robert Levin",
+    "title": "Pampamapa",
+    "time": "0:04:14",
+    "composer": "Kim Kashkashian (altviool) Robert Levin (piano)",
+    "label": "ECM 476 6149"
+  },
+  {
+    "starttime": "11:51",
+    "artist": "Joaquin Turina",
+    "title": "Sevillana",
+    "time": "0:07:40",
+    "composer": "Pepe Romero (gitaar)",
+    "label": "DG 479 0073"
+  },
+  {
+    "starttime": "12:08",
+    "artist": "Maurice Ravel",
+    "title": "Miroirs: 4.Alborada del gracioso (arr.)",
+    "time": "0:06:58",
+    "composer": "Philippe Thuriot (accordeon)",
+    "label": "Warner Classics 5054197012549"
+  },
+  {
+    "starttime": "12:16",
+    "artist": "Dirk Brossé",
+    "title": "DNA in Music (bewerkt voor fluit en harmonieorkest)",
+    "time": "0:09:56",
+    "composer": "Yves (Dirigent) Segers (dwarsfluit) Koninklijke Muziekkapel Van De Belgische Gidsen o.l.v. Dirk Brossé",
+    "label": "World Wind Music WWM-500.213"
+  },
+  {
+    "starttime": "12:26",
+    "artist": "Ottorino Respighi",
+    "title": "Zes stukken voor piano / Sei Pezzi: Notturno, Nr. 3",
+    "time": "0:04:37",
+    "composer": "Emmy Wils (piano)",
+    "label": "VRT Opname 2021"
+  },
+  {
+    "starttime": "12:33",
+    "artist": "Robert Schumann",
+    "title": "Acht noveletten, op. 21 /Novelletten: VII Äusserst rasch - Etwas langsamer - Erstes Tempo",
+    "time": "0:03:06",
+    "composer": "Piet Kuijken (pianoforte)",
+    "label": "Fuga Libera FUG-562"
+  },
+  {
+    "starttime": "12:37",
+    "artist": "Felix Mendelssohn",
+    "title": "Symphonie Nr. 9 in C groot MWV N 9 - Allegro vivace",
+    "time": "0:10:05",
+    "composer": "Münchner Rundfunkorchester o.l.v. Henri Raudales",
+    "label": "BR Klassik 900337"
+  },
+  {
+    "starttime": "12:48",
+    "artist": "Chito Faro",
+    "title": "Si vas para Chile",
+    "time": "0:03:25",
+    "composer": "Juan Diego Florez (tenor) Jonathan Bolivar (gitaar)",
+    "label": "Sony Classical 190758229423"
+  },
+  {
+    "starttime": "12:51",
+    "artist": "Robert Fuchs",
+    "title": "Klarinetkwintet in Es op.102: 1.Allegro molto moderato",
+    "time": "0:10:04",
+    "composer": "Stephan Siegenthaler (klarinet) Stamic Quartet Prague",
+    "label": "Sterling 1674-2"
+  },
+  {
+    "starttime": "13:00",
+    "artist": "",
+    "title": "",
+    "time": "0:08:00",
+    "composer": "",
+    "label": ""
+  },
+  {
+    "starttime": "13:08",
+    "artist": "Tonhalle-Orchester Zurich o.l.v. Paavo Järvi",
+    "title": "Symfonie nr. 2 in c klein, op. 17 /Kleinrussische/Little Russian: III Scherzo. Allegro molto vivace - Trio, L'istesso tempo",
+    "time": "0:05:07",
+    "composer": "Peter Tsjaikovsky",
+    "label": "Alpha 753"
+  },
+  {
+    "starttime": "13:14",
+    "artist": "Nuala Mckenna (cello)",
+    "title": "Sonate voor cello solo, op. 8: I Allegro maestoso ma appassionato",
+    "time": "0:10:00",
+    "composer": "Zoltán Kodály",
+    "label": "Cobra Records COBRA0078"
+  },
+  {
+    "starttime": "13:24",
+    "artist": "Symfonieorkest Vlaanderen o.l.v. Martijn Dendievel",
+    "title": "Porgy and Bess",
+    "time": "0:08:51",
+    "composer": "George Gerhswin (arr. Iain Farrington)",
+    "label": "Evil Penguin Productions 2021"
+  },
+  {
+    "starttime": "13:43",
+    "artist": "Balder Dendievel (hobo) Kristien Devolder (piano)",
+    "title": "Herderswijze",
+    "time": "0:02:34",
+    "composer": "Lodewijk De Vocht",
+    "label": "YBT 004"
+  },
+  {
+    "starttime": "13:46",
+    "artist": "Joe Lovano (saxofoon) Dave Douglas (trompettist) Lawrence Fields (piano) Linda May Han Oh (contrabas) Joey Baron (drums) Sound Prints",
+    "title": "The Transcendentalists",
+    "time": "0:05:42",
+    "composer": "Dave Douglas, Joe Lovano",
+    "label": "Greenleaf Music B08WDQ28WZ"
+  },
+  {
+    "starttime": "13:53",
+    "artist": "Aaron Parks (piano)",
+    "title": "Elsewhere",
+    "time": "0:07:04",
+    "composer": "Aaron Parks",
+    "label": "ECM 2338"
+  },
+  {
+    "starttime": "14:04",
+    "artist": "Domenico Scarlatti",
+    "title": "Sonate in E K380",
+    "time": "0:04:02",
+    "composer": "Scott Ross (klavecimbel)",
+    "label": "Erato 45423-2"
+  },
+  {
+    "starttime": "14:09",
+    "artist": "Claudio Monteverdi",
+    "title": "Ottavo libro dei Madrigali: Lamento della Ninfa (Amor)",
+    "time": "0:05:11",
+    "composer": "Natalie Dessay (sopraan) Simon Wall (tenor) Topi Lehtipuu (tenor) Christopher Purves (bas-bariton) Le Concert d'Astrée o.l.v. Emmanuelle Haïm",
+    "label": "Warner Classics 0190296797019"
+  },
+  {
+    "starttime": "14:15",
+    "artist": "Johann Sebastian Bach",
+    "title": "Partita nr.5 in G BWV829",
+    "time": "0:20:03",
+    "composer": "Andras Schiff (piano)",
+    "label": "Decca 411732-2"
+  },
+  {
+    "starttime": "14:36",
+    "artist": "Johannes Brahms",
+    "title": "Concerto in a voor viool, cello en orkest op.102",
+    "time": "0:32:44",
+    "composer": "Frank Peter Zimmermann (viool) Heinrich Schiff (cello) London Philharmonic Orchestra o.l.v. Wolfgang Sawallisch",
+    "label": "EMI Classics 7243-5 75509 2-5"
+  },
+  {
+    "starttime": "15:10",
+    "artist": "Edward Elgar",
+    "title": "Drie Beierse dansen op.27",
+    "time": "0:11:35",
+    "composer": "English String Orchestra o.l.v. William Boughton",
+    "label": "Nimbus Records NI-5136"
+  },
+  {
+    "starttime": "15:22",
+    "artist": "Gustav Mahler",
+    "title": "Des Knaben Wunderhorn: Rheinlegendchen",
+    "time": "0:02:33",
+    "composer": "Dietrich Henschel (bariton) Boris Berezovsky (piano)",
+    "label": "Evil Penguin Records 013"
+  },
+  {
+    "starttime": "15:24",
+    "artist": "Gustav Mahler",
+    "title": "Des Knaben Wunderhorn: Ich ging mit Lust durch einen grünen Wald",
+    "time": "0:03:30",
+    "composer": "Dietrich Henschel (bariton) Boris Berezovsky (piano)",
+    "label": "Evil Penguin Records 013"
+  },
+  {
+    "starttime": "15:28",
+    "artist": "Gustav Mahler",
+    "title": "Des Knaben Wunderhorn: Lob des hohen Verstandes",
+    "time": "0:02:15",
+    "composer": "Dietrich Henschel (bariton) Boris Berezovsky (piano)",
+    "label": "Evil Penguin Records 013"
+  },
+  {
+    "starttime": "15:31",
+    "artist": "Joseph Haydn",
+    "title": "Strijkkwartet in Bes op.71 nr.1",
+    "time": "0:21:43",
+    "composer": "Prazak Quartet",
+    "label": "Praga digitals 250289"
+  },
+  {
+    "starttime": "15:53",
+    "artist": "Wolfgang Amadeus Mozart",
+    "title": "Symfonie nr.38 in D KV504 Praagse: 3.Presto",
+    "time": "0:06:42",
+    "composer": "Freiburger Barockorchester o.l.v. René Jacobs",
+    "label": "Harmonia Mundi HMC-901958"
+  },
+  {
+    "starttime": "16:04",
+    "artist": "François Couperin",
+    "title": "Les barricades mistérieuses",
+    "time": "0:03:13",
+    "composer": "Jean Rondeau (klavecimbel) Thomas Dunford (luit)",
+    "label": "Warner Classics 0190295269951"
+  },
+  {
+    "starttime": "16:08",
+    "artist": "Henry Purcell",
+    "title": "Dido and Aeneas: When I am laid in earth-With Drooping Wings",
+    "time": "0:05:45",
+    "composer": "Susan Graham (mezzosopraan) European Voices; Le Concert d'Astrée o.l.v. Emmanuelle Haïm",
+    "label": "Virgin Veritas 7243-5 45604 2-2"
+  },
+  {
+    "starttime": "16:15",
+    "artist": "Sergej Rachmaninov",
+    "title": "Variaties op een thema van Corelli op.42",
+    "time": "0:18:01",
+    "composer": "Boris Giltburg (piano)",
+    "label": "Naxos 8.573630"
+  },
+  {
+    "starttime": "16:34",
+    "artist": "Alexander Glazoenov",
+    "title": "Concerto in a voor viool en orkest op.82",
+    "time": "0:19:10",
+    "composer": "Frank Peter Zimmermann (viool) London Philharmonic Orchestra o.l.v. Franz Welser-Möst",
+    "label": "EMI Classics 0777-7 54872 2-0"
+  },
+  {
+    "starttime": "16:53",
+    "artist": "Ferdinand Ries",
+    "title": "Sextet in g voor harp, piano, klarinet, fagot, hoorn en contrabas op.142: 3.Rondo",
+    "time": "0:06:22",
+    "composer": "Ensemble Concertant Frankfurt",
+    "label": "CPO 999622-2"
+  },
+  {
+    "starttime": "17:21",
+    "artist": "Ruben Gonzalez Sr. (piano) Pucho Escalante (trombone) Eddie Martinez (trompet) Luis Toledo (trompet) Braulio Hernandez (tenorsaxofoon) Osvaldo Urrutia (baritonsaxofoon) Hector Rodriguez (contrabas) Salvador Almiral (drums) Noneto Cubano De Jazz",
+    "title": "Moby Dick",
+    "time": "0:03:42",
+    "composer": "L. Escalante",
+    "label": "Actual Records 0318"
+  },
+  {
+    "starttime": "17:37",
+    "artist": "Django Reinhardt (gitaar/elektrische gitaar)",
+    "title": "Brazil",
+    "time": "0:02:26",
+    "composer": "Ary Barroso, Bob Russell",
+    "label": "Saga 532 081-2"
+  },
+  {
+    "starttime": "17:57",
+    "artist": "Robert Del Naja, Andrew Vowles, Grant Marshall, Horace Keith Hinds",
+    "title": "Angel",
+    "time": "0:02:00",
+    "composer": "Robert Del Naja (programmatie) Grant Marshall (programmatie) Andrew Vowles (programmatie) Massive Attack",
+    "label": "Virgin Records CDVX-3017"
+  },
+  {
+    "starttime": "18:08",
+    "artist": "Richard Galliano",
+    "title": "Tango pour Claude",
+    "time": "0:04:08",
+    "composer": "Richard Galliano",
+    "label": "Dreyfus Jazz FDM365622"
+  },
+  {
+    "starttime": "18:12",
+    "artist": "Quarteto Gardel",
+    "title": "Silencio",
+    "time": "0:07:47",
+    "composer": "Carlos Gardel-Alfredo Le Pera-M. Pettorossi",
+    "label": "Bretelles Prod 06190101"
+  },
+  {
+    "starttime": "18:20",
+    "artist": "Carlos Gardel (zang)",
+    "title": "Volver",
+    "time": "0:02:49",
+    "composer": "Carlos Gardel-Alfredo Le Pena",
+    "label": "World Music Network RGNET1329"
+  },
+  {
+    "starttime": "18:23",
+    "artist": "Silvia Teles (zang)",
+    "title": "Duas Contas",
+    "time": "0:02:54",
+    "composer": "Anibal Sardinha",
+    "label": "Frémeaux &amp; Associés FA-5216"
+  },
+  {
+    "starttime": "18:27",
+    "artist": "Lluis Capdevila (piano) Petros Klampanis (contrabas)",
+    "title": "Málaga",
+    "time": "0:03:53",
+    "composer": "Lluis Capdevila",
+    "label": "Lluis Devilla "
+  },
+  {
+    "starttime": "18:31",
+    "artist": "Enrique Granados/arr.Kim Kashkashian en Robert Levin",
+    "title": "El mirar de la Maja",
+    "time": "0:02:57",
+    "composer": "Kim Kashkashian (altviool) Robert Levin (piano)",
+    "label": "ECM 476 6149"
+  },
+  {
+    "starttime": "18:34",
+    "artist": "Enrique Granados/arr.Kim Kashkashian en Robert Levin",
+    "title": "El Majo olvidado",
+    "time": "0:03:15",
+    "composer": "Kim Kashkashian (altviool) Robert Levin (piano)",
+    "label": "ECM 476 6149"
+  },
+  {
+    "starttime": "18:37",
+    "artist": "Claude Debussy",
+    "title": "Petite suite",
+    "time": "0:13:08",
+    "composer": "Orchestre de Chambre de Paris o.l.v. Thomas Zehetmair",
+    "label": "Naïve 5345"
+  },
+  {
+    "starttime": "18:51",
+    "artist": "Kevin Seddiki",
+    "title": "Derivando",
+    "time": "0:02:02",
+    "composer": "Kevin Seddiki (gitaar)",
+    "label": "ECM 2617"
+  },
+  {
+    "starttime": "18:53",
+    "artist": "Louis Sclavis (basklarinet) Sarah Murcia (contrabas) Christophe Lavergne (drums) Benjamin Moussay (piano)",
+    "title": "Extases",
+    "time": "0:03:51",
+    "composer": "Louis Sclavis",
+    "label": "ECM 2645 778 3223"
+  },
+  {
+    "starttime": "18:57",
+    "artist": "Louis Sclavis (basklarinet) Sarah Murcia (contrabas) Christophe Lavergne (drums) Benjamin Moussay (piano)",
+    "title": "La dame de Martigues",
+    "time": "0:06:14",
+    "composer": "Louis Sclavis",
+    "label": "ECM 2645 778 3223"
+  },
+  {
+    "starttime": "19:04",
+    "artist": "Abbey Lincoln",
+    "title": "I'm In Love",
+    "time": "0:06:09",
+    "composer": "Charlie Haden/Abbey Lincoln",
+    "label": "Verve 5320961"
+  },
+  {
+    "starttime": "19:10",
+    "artist": "Wolfgang Muthspiel (gitaar) Scott Colley (contrabas) Brian Blade (drums)",
+    "title": "I'll Remember April",
+    "time": "0:05:34",
+    "composer": "Gene De Paul, Don Raye (Vaudeville), Pat Johnston",
+    "label": "ECM 2655"
+  },
+  {
+    "starttime": "19:16",
+    "artist": "Kenny Barron (piano) Dave Holland (contrabas) Johnathan Blake (drums) Kenny Barron/Dave Holland Trio",
+    "title": "Warm Valley",
+    "time": "0:07:39",
+    "composer": "Duke Ellington",
+    "label": "Dare2 Records "
+  },
+  {
+    "starttime": "19:24",
+    "artist": "Dave Holland Quintet",
+    "title": "Make Believe",
+    "time": "0:06:20",
+    "composer": "Dave Holland",
+    "label": "ECM 547 950-2"
+  },
+  {
+    "starttime": "19:31",
+    "artist": "Steve Reich",
+    "title": "Nagoya Marimbas",
+    "time": "0:04:36",
+    "composer": "Morten Friis (marimba) Uffe Savery (marimba) Safri Duo",
+    "label": "Chandos CHAN-9645"
+  },
+  {
+    "starttime": "19:36",
+    "artist": "Philip Glass",
+    "title": "Echorus voor 2 violen en strijkers",
+    "time": "0:05:50",
+    "composer": "Daniel Hope (viool) Chié Peters (viool) Deutsches Kammerorchester Berlin o.l.v. Simon Halsey",
+    "label": "DG 479 0571"
+  },
+  {
+    "starttime": "19:42",
+    "artist": "Salif Keïta",
+    "title": "Folon",
+    "time": "0:04:54",
+    "composer": "Derek Gripper (gitaar)",
+    "label": "New Cape Records "
+  },
+  {
+    "starttime": "19:47",
+    "artist": "Avishai Cohen (trompet) Yonathan Avishai (piano)",
+    "title": "Two Lines",
+    "time": "0:06:18",
+    "composer": "Yonathan Avishai",
+    "label": "ECM 2641"
+  },
+  {
+    "starttime": "19:53",
+    "artist": "Kenny Garrett",
+    "title": "A Time For Love",
+    "time": "0:06:26",
+    "composer": "Johnny Mandel/Paul Francis Webster",
+    "label": "Warner Brothers 9362457312"
+  },
+  {
+    "starttime": "20:05",
+    "artist": "Jean-Luc Fafchamps",
+    "title": "Back to the sound",
+    "time": "0:07:50",
+    "composer": "Emmy Wils (piano)",
+    "label": "VRT-OPNAME "
+  },
+  {
+    "starttime": "20:17",
+    "artist": "Wim Henderickx",
+    "title": "Twee nocturnes",
+    "time": "0:07:55",
+    "composer": "Koi Collective: Maarten Vergauwen (altsaxofoon); Emmy Wils (piano)",
+    "label": "VRT-OPNAME "
+  },
+  {
+    "starttime": "20:25",
+    "artist": "Peter Benoit",
+    "title": "Fantasie voor piano nr 3, opus 18",
+    "time": "0:04:42",
+    "composer": "Emmy Wils (piano)",
+    "label": "VRT-OPNAME "
+  },
+  {
+    "starttime": "20:30",
+    "artist": "Michael Nyman",
+    "title": "Shaping the curve",
+    "time": "0:08:35",
+    "composer": "Koi Collective: Maarten Vergauwen (sopraansaxofoon); Emmy Wils (piano)",
+    "label": "VRT-OPNAME "
+  },
+  {
+    "starttime": "20:39",
+    "artist": "Nikolai Kapustin",
+    "title": "Acht Concertetudes op.40: Etude nr 1",
+    "time": "0:02:14",
+    "composer": "Emmy Wils (piano)",
+    "label": "VRT-OPNAME "
+  },
+  {
+    "starttime": "20:41",
+    "artist": "Johannes Brahms",
+    "title": "Drie Intermezzi op.117: nr 1. Intermezzo in Es",
+    "time": "0:04:59",
+    "composer": "Emmy Wils (piano)",
+    "label": "VRT-OPNAME "
+  },
+  {
+    "starttime": "20:46",
+    "artist": "Ottorino Respighi",
+    "title": "Notturno",
+    "time": "0:04:37",
+    "composer": "Emmy Wils (piano)",
+    "label": "VRT-OPNAME "
+  },
+  {
+    "starttime": "20:51",
+    "artist": "Jean-Luc Fafchamps",
+    "title": "Decalcomanie",
+    "time": "0:08:17",
+    "composer": "Maarten Vergauwen (altsaxofoon); Emmy Wils (piano)",
+    "label": "VRT-OPNAME "
+  },
+  {
+    "starttime": "20:59",
+    "artist": "Joseph Jongen",
+    "title": "Trio voor fluit, cello en harp, op. 80 /Deux pièces en trio",
+    "time": "0:14:51",
+    "composer": "Toon Fret (dwarsfluit) Elisabeth Smalt (altviool) Annie Lavoisier (harp)",
+    "label": "Fuga Libera FUG-511"
+  },
+  {
+    "starttime": "21:15",
+    "artist": "Claude Debussy",
+    "title": "Estampes",
+    "time": "0:13:48",
+    "composer": "Boyan Vodenitcharov (piano)",
+    "label": "Explicit! E!-02010"
+  },
+  {
+    "starttime": "21:29",
+    "artist": "Ottorino Respighi",
+    "title": "Fontane di Roma (Poema sinfonico per orchestra) /Fonteinen van Rome",
+    "time": "0:17:55",
+    "composer": "Orchestra Dellaccademia Nazionale Di Santa Cecilia",
+    "label": "Conifer Classics 75605-51292-2"
+  },
+  {
+    "starttime": "21:47",
+    "artist": "Johann Sebastian Bach",
+    "title": "Partita sopra \"Christ, der du bist der helle Tag\", BWV 766 (Koraal en zes variaties)",
+    "time": "0:10:10",
+    "composer": "Bernard Foccroulle (orgel)",
+    "label": "Ricercar 246782"
+  },
+  {
+    "starttime": "22:06",
+    "artist": "PRINCESS4PRESIDENT",
+    "title": "FEED",
+    "time": "0:03:12",
+    "composer": "Kaat De Windt",
+    "label": "Eigen beheer PRINCESS4PRESIDENT -"
+  },
+  {
+    "starttime": "22:09",
+    "artist": "Flat Earth Society",
+    "title": "Dust from the Stars",
+    "time": "0:03:38",
+    "composer": "David 9½ Bovée",
+    "label": "Igloo Records -"
+  },
+  {
+    "starttime": "22:13",
+    "artist": "Los Piranas",
+    "title": "Dragones Chinos",
+    "time": "0:03:23",
+    "composer": "Los Piranas",
+    "label": "Keroxen KRXN014"
+  },
+  {
+    "starttime": "22:17",
+    "artist": "Esinam",
+    "title": "Deep In My Soul",
+    "time": "0:04:06",
+    "composer": "Esinam",
+    "label": "W.E.R.F. Records -"
+  },
+  {
+    "starttime": "22:21",
+    "artist": "Peter Gordon; Lawrence Weiner",
+    "title": "Deutsche Angst",
+    "time": "0:06:00",
+    "composer": "Peter Gordon; Lawrence Weiner",
+    "label": "Les Disques Du Crépuscule TWI 059"
+  },
+  {
+    "starttime": "22:27",
+    "artist": "Blue Gene Tyranny",
+    "title": "The Driver?s Son, Scene II: The Happy Landing (Live at Roulette, New York, May 7, 1999)",
+    "time": "0:12:08",
+    "composer": "Robert Sheff",
+    "label": "Unseen Worlds UW035CD"
+  },
+  {
+    "starttime": "22:40",
+    "artist": "Zwerm Karen WIllems Rudy Trouvé",
+    "title": "My Umbrella",
+    "time": "0:05:18",
+    "composer": "Zwerm, Karen Willems, Rudy Trouvé, Bruno Nelissen",
+    "label": "eigen beheer Zwerm -"
+  },
+  {
+    "starttime": "22:45",
+    "artist": "Ameel Brecht",
+    "title": "Khadija's Theme 1",
+    "time": "0:03:51",
+    "composer": "Ameel Brecht",
+    "label": "Hands in the Dark -"
+  },
+  {
+    "starttime": "22:50",
+    "artist": "Slumberland &amp; Sainkho Namtchylak",
+    "title": "Repetitie-opname",
+    "time": "0:11:04",
+    "composer": "Jochem Baelus; Sainkho Namtchylak",
+    "label": "Eigen opname Slumberland -"
+  },
+  {
+    "starttime": "23:01",
+    "artist": "Pak Yan Lau",
+    "title": "Bakunawa pt 2",
+    "time": "0:11:28",
+    "composer": "Pak Yan Lau",
+    "label": "Cortizona 012"
+  },
+  {
+    "starttime": "23:13",
+    "artist": "Pleasure",
+    "title": "Misty 191012",
+    "time": "0:03:57",
+    "composer": "Pleasure",
+    "label": "Disasters By Choice LPNUY006"
+  },
+  {
+    "starttime": "23:17",
+    "artist": "Juana Molina",
+    "title": "La visita",
+    "time": "0:02:17",
+    "composer": "Juana Molina",
+    "label": "Crammed discs -"
+  },
+  {
+    "starttime": "23:20",
+    "artist": "Juana Molina",
+    "title": "El perro",
+    "time": "0:06:40",
+    "composer": "Juana Molina",
+    "label": "Crammed discs -"
+  },
+  {
+    "starttime": "23:27",
+    "artist": "Sarrazy Rochelle",
+    "title": "Lobotomy nostalghia",
+    "time": "0:05:28",
+    "composer": "Laurent Rochelle &amp; Marc Sarrazy",
+    "label": "Les disques linoleum Inouïe"
+  },
+  {
+    "starttime": "23:33",
+    "artist": "Brik Tu-Tok",
+    "title": "Cheap Trip",
+    "time": "0:04:16",
+    "composer": "Maxim Storms, Linde Carrijn",
+    "label": "Rotkat Records -"
+  },
+  {
+    "starttime": "23:37",
+    "artist": "PRINCESS4PRESIDENT",
+    "title": "FREE THEM",
+    "time": "0:08:37",
+    "composer": "Kaat De Windt",
+    "label": "Eigen beheer PRINCESS4PRESIDENT -"
+  },
+  {
+    "starttime": "23:46",
+    "artist": "De Beren Gieren",
+    "title": "Animalcules",
+    "time": "0:06:10",
+    "composer": "De Beren Gieren",
+    "label": "SDBAN ULTRA SDBANUCD17D3"
+  },
+  {
+    "starttime": "23:52",
+    "artist": "Abel Ghekiere",
+    "title": "Kailash",
+    "time": "0:03:24",
+    "composer": "Abel Ghekiere",
+    "label": "Rotkat Records -"
+  },
+  {
+    "starttime": "23:56",
+    "artist": "Porter Ricks",
+    "title": "Biokinetics 2",
+    "time": "0:08:29",
+    "composer": "Thomas Koener, Andy Mellwig",
+    "label": "Mille Plateaux MP26"
+  }
+]
